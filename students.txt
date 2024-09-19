@@ -1,0 +1,7 @@
+Pratik Nikam,1,Ex
+Sakshi Patil,2,AA
+Pratiksha Sawant,3,AB
+Krishna More,4,AA
+Prathmesh Sawant,5,AC
+Ram,7,AA
+Shyam,8,EX
